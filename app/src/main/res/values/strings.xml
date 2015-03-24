@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidS3Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">AWS S3 Demo</string>
+    <string name="selectLabel">Select Image</string>
+    <string name="uploadLabel">Upload to Bucket</string>
+    <string name="bucketLabel">Select Bucket : </string>
+    <string name="newBucketLabel">Bucket Name :</string>
+
+</resources>
